@@ -92,7 +92,7 @@
 <body>
 <!--
   <form method="POST" action="memopage.php" onsubmit="return hideShow();">
-  <h3 align="center">Payment Memo</h3>
+  <h3 align="center">Payment TB Board Memo</h3>
   <table align="center" border="0" style="width: 750px;">
   	<tr style="font-size: 20px;font-weight: bold;">
   		<td>Vendor Name</td>
