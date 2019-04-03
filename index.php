@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Memo</title>
+	<title>Memo Page</title>
 	<style type="text/css">
 		select {
 		  margin: 5px;
